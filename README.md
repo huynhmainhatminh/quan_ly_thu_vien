@@ -16,4 +16,13 @@ https://github.com/huynhmainhatminh/quan_ly_thu_vien/assets/156114356/f215c0ac-1
 # Kênh Youtube
 LINK : https://www.youtube.com/watch?v=Jx773sSJlw0&t=2s
 
+# Thông tin
+
+Dự án được code dựa vào Windows Form được sự hỗ trợ của tiện ích toolbox
++ Giao diện đăng nhập, đăng ký
++ Kết nối với cơ sở dữ liệu (SQL Server)
++ Giao diện quản lý sách, người dùng
+
+Tác giả : Huỳnh Mai Nhật Minh
+Người đóng góp : Lượng Đình Duy, Lâm Tiến Đạt
 
