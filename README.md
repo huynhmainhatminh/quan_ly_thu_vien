@@ -10,4 +10,8 @@ LINK : https://visualstudio.microsoft.com/#vs-section
 LINK : https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 
 # Hướng Dẫn Cài Đặt SQL Server 2022 Express
-<video src="https://github.com/huynhmainhatminh/quan_ly_thu_vien/blob/main/INSTRUCT/video_1.mp4"></video>
+
+https://github.com/huynhmainhatminh/quan_ly_thu_vien/assets/156114356/f215c0ac-1f43-43e1-9ada-260f8b9c1c96
+
+
+
