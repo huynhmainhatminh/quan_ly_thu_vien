@@ -1,0 +1,7 @@
+E:\LOGIN_WIN\library\Project1\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+E:\LOGIN_WIN\library\Project1\Project1\x64\Debug\Project1.Home.resources
+E:\LOGIN_WIN\library\Project1\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+E:\LOGIN_WIN\library\Project1\Project1\x64\Debug\Project1.Login.resources
+E:\LOGIN_WIN\library\Project1\Project1\x64\Debug\Project1.Register.resources
+E:\LOGIN_WIN\library\Project1\Project1\x64\Debug\Project1.AdminForm.resources
+E:\LOGIN_WIN\library\Project1\Project1\x64\Debug\Project1.MemberForm.resources
