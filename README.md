@@ -4,3 +4,5 @@ LINK : https://visualstudio.microsoft.com/#vs-section
 
 # Cài Đặt Visual Studio 2022
 <img src='./INSTRUCT/pic_1.png' width=80%>
+<img src='./INSTRUCT/pic_2.png' width=80%>
+
