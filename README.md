@@ -1,1 +1,1 @@
-# quan_ly_thu_vien
+# QUẢN LÝ THƯ VIỆN (C++)
