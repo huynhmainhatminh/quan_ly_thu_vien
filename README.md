@@ -23,6 +23,5 @@ Dự án được code dựa vào Windows Form được sự hỗ trợ của ti
 + Kết nối với cơ sở dữ liệu (SQL Server)
 + Giao diện quản lý sách, người dùng
 
-Tác giả : Huỳnh Mai Nhật Minh
-Người đóng góp : Lượng Đình Duy, Lâm Tiến Đạt
+Tác giả : Huỳnh Mai Nhật Minh & Người đóng góp : Lượng Đình Duy, Lâm Tiến Đạt
 
