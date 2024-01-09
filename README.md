@@ -3,4 +3,4 @@
 LINK : https://visualstudio.microsoft.com/#vs-section
 
 # Cài Đặt Visual Studio 2022
-<img src='./INSTRUCT/Screenshot (377).png' width=60%>
+<img src='./INSTRUCT/pic_1.png' width=80%>
