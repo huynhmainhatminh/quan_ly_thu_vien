@@ -14,7 +14,7 @@ LINK : https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 https://github.com/huynhmainhatminh/quan_ly_thu_vien/assets/156114356/f215c0ac-1f43-43e1-9ada-260f8b9c1c96
 
 # Kênh Youtube
-LINK : https://www.youtube.com/watch?v=Jx773sSJlw0&t=2s
+LINK : https://www.youtube.com/watch?v=lP7ruakDzz4
 
 # Thông tin
 
